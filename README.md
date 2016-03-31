@@ -16,7 +16,7 @@ custom XML configuration file.
 This sample can also be used as a utility to test the behavior of the Automatic Backup feature.
 Executing:
 
-    adb shell bmgr restorecom.example.android.autobackup
+    adb shell bmgr restore com.example.android.autobackup
 
 from a terminal will cause the sample's data to be cleared and replaced with a copy from the backup
 server.
